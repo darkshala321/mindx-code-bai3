@@ -1,0 +1,468 @@
+
+.Desktop1 {
+    position: relative;
+    background: #1C233D;
+  }
+  
+ 
+  .text {
+    position: absolute;
+    color: #E5E5E5;
+    font-size: 14px;
+    font-family: Space Grotesk;
+    word-wrap: break-word;
+  }
+
+  .Sapphire {
+    left: 72px;
+    top: 15px;
+    font-size: 25px;
+    font-weight: 500;
+  }
+
+  .Explore {
+    left: 218px;
+    top: 23px;
+    font-weight: 700;
+  }
+
+  .Marketplace {
+    left: 295px;
+    top: 23px;
+    font-weight: 400;
+  }
+
+  .Artist {
+    left: 413px;
+    top: 23px;
+    font-weight: 400;
+  }
+
+  .Collection {
+    left: 481px;
+    top: 23px;
+    font-weight: 400;
+  }
+  
+  .search-container {
+    width: 242px;
+    height: 30px;
+    position: absolute;
+    left: 584px;
+    top: 18px;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 0.50px #E5E5E5 solid;
+  }
+
+  .search-input {
+    width: 100%;
+    height: 100%;
+    color: #E5E5E5;
+    font-size: 10px;
+    font-family: Space Grotesk;
+    font-weight: 400;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .sign-in {
+    position: absolute;
+    width: 93px;
+    height: 30px;
+    left: 856px;
+    top: 18px;
+    background: linear-gradient(86deg, rgba(190, 91, 196, 0.09) 16%, #C367E6 59%, rgba(190, 205, 239, 0) 100%);
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .sign-in-text {
+    color: #E5E5E5;
+    font-size: 10px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  .big-h1 {
+    width: 199px;
+    height: 40px;
+    left: 60px;
+    top: 433px;
+    position: absolute;
+    background: linear-gradient(86deg, rgba(190, 91, 196, 0.09) 16%, #C367E6 59%, rgba(190, 205, 239, 0) 100%);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .DiscoverNow {
+    left: 47px;
+    top: 10px;
+    position: absolute;
+    color: #E5E5E5;
+    font-size: 16px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  .Artworks {
+    left: 67px;
+    top: 599px;
+    position: absolute;
+    color: #E5E5E5;
+    font-size: 12px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  .K {
+    left: 62px;
+    top: 554px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  .Auctions {
+    left: 229px;
+    top: 599px;
+    position: absolute;
+    color: #E5E5E5;
+    font-size: 12px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  .K1 {
+    left: 220px;
+    top: 554px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  .Artists {
+    left: 375px;
+    top: 599px;
+    position: absolute;
+    color: #E5E5E5;
+    font-size: 12px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  .K2 {
+    left: 363px;
+    top: 554px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .big-avarta {
+    width: 404px;
+    height: 494px;
+    left: 551px;
+    top: 125px;
+    position: absolute;
+    background: #30384D;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .Image1 {
+    width: 357.28px;
+    height: 370.24px;
+    left: 25.72px;
+    top: 29px;
+    position: absolute;
+    border-radius: 4.89px;
+  }
+  
+  .big-avatar {
+    width: 404px;
+    height: 494px;
+    left: 551px;
+    top: 125px;
+    position: absolute;
+    background: #30384D;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .Image1 {
+    width: 357.28px;
+    height: 370.24px;
+    left: 25.72px;
+    top: 29px;
+    position: absolute;
+    border-radius: 4.89px;
+  }
+  
+  .MonkeyApes {
+    left: 32px;
+    top: 410px;
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .Ellipse1 {
+    width: 29px;
+    height: 28px;
+    left: 284px;
+    top: 410px;
+    position: absolute;
+    border-radius: 9999px;
+  }
+  
+  .Ellipse2 {
+    width: 29px;
+    height: 28px;
+    left: 299px;
+    top: 410px;
+    position: absolute;
+    border-radius: 9999px;
+  }
+  
+  .Ellipse3 {
+    width: 29px;
+    height: 28px;
+    left: 319px;
+    top: 410px;
+    position: absolute;
+    border-radius: 9999px;
+  }
+  
+  .Ellipse4 {
+    width: 29px;
+    height: 28px;
+    left: 334px;
+    top: 410px;
+    position: absolute;
+    border-radius: 9999px;
+  }
+  
+  .Ellipse5 {
+    width: 29px;
+    height: 28px;
+    left: 354px;
+    top: 410px;
+    position: absolute;
+    border-radius: 9999px;
+  }
+  
+  .CurrentBid {
+    left: 33px;
+    top: 449px;
+    position: absolute;
+    color: #545C71;
+    font-size: 8px;
+    font-family: DM Mono;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .CurrentBid:nth-child(2) {
+    left: 170px;
+    position: absolute;
+    font-weight: 500;
+  }
+  
+  .EndingIn {
+    left: 353px;
+    top: 449px;
+    position: absolute;
+    color: #545C71;
+    font-size: 8px;
+    font-family: DM Mono;
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+  
+  .Authors {
+    left: 170px;
+    top: 463px;
+    position: absolute;
+    color: white;
+    font-size: 10px;
+    font-family: DM Mono;
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+  
+  .H43m26s {
+    left: 331px;
+    top: 463px;
+    position: absolute;
+    color: white;
+    font-size: 10px;
+    font-family: DM Mono;
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+  
+  .Ellipse6 {
+    width: 8px;
+    height: 8px;
+    left: 33px;
+    top: 466px;
+    position: absolute;
+    border-radius: 9999px;
+  }
+  
+  .Vector {
+    width: 6.88px;
+    height: 8.74px;
+    left: 321px;
+    top: 465px;
+    position: absolute;
+    border: 0.50px white solid;
+  }
+
+  .Vector {
+    width: 13px;
+    height: 7.35px;
+    left: 601px;
+    top: 401.39px;
+    position: absolute;
+    border: 0.50px white solid;
+  }
+  
+  .DiscoverSellCollectRareNfts {
+    left: 62px;
+    top: 138px;
+    position: absolute;
+    color: white;
+    font-size: 60px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .Vector1 {
+    width: 121.50px;
+    height: 13.07px;
+    left: 339px;
+    top: 287px;
+    position: absolute;
+    border: 1.50px #770777 solid;
+  }
+  
+  .DigitalMarketplaceForCryptoCollectionsAndNonFungibleTokensNfts {
+    left: 62px;
+    top: 381px;
+    position: absolute;
+    color: white;
+    font-size: 13px;
+    font-family: Poppins;
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+
+  .ImageRemovebgPreview6,
+.ImageRemovebgPreview121,
+.ImageRemovebgPreview131,
+.ImageRemovebgPreview71 {
+  position: absolute;
+}
+
+.ImageRemovebgPreview6 {
+  width: 135.71px;
+  height: 50px;
+  left: 276px;
+  top: 743px;
+}
+
+.ImageRemovebgPreview121 {
+  width: 135.71px;
+  height: 50px;
+  left: 457px;
+  top: 743px;
+}
+
+.ImageRemovebgPreview131 {
+  width: 135.71px;
+  height: 50px;
+  left: 629px;
+  top: 743px;
+}
+
+.ImageRemovebgPreview71 {
+  width: 135.71px;
+  height: 50px;
+  left: 825px;
+  top: 743px;
+}
+
+.NftMarketplace {
+  left: 467px;
+  top: 849px;
+  position: absolute;
+  color: #9C76B8;
+  font-size: 10px;
+  font-family: DM Mono;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.SuperHotDrops {
+  left: 433px;
+  top: 875px;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Frame17 {
+  width: 141px;
+  height: 33px;
+  left: 441px;
+  top: 1775px;
+  position: absolute;
+  background: #30384D;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.ViewMore {
+  left: 38px;
+  top: 10px;
+  position: absolute;
+  color: white;
+  font-size: 12px;
+  font-family: DM Mono;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+  
+  
+  
+  
